@@ -1,5 +1,5 @@
 h1 {
-  color: Red;
+  color: Violet;
   text-align: center;
 }
 body {
@@ -33,3 +33,6 @@ h4 {
 }
 
 
+p {
+  text-align: center;
+}
