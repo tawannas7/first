@@ -8,9 +8,10 @@ body {
 img {
   width: 70%;
   display: block;
+  float: fixed;
   margin-left: auto;
   margin-right: auto;
-  float: fixed;
+  
   border-style: block;
   border-color: Black;
   
