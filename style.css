@@ -1,6 +1,7 @@
 h1 {
   color: Red;
-  display: block;
+  border-style: solid;
+  border-color: Black;
   margin-left: auto;
   margin-right: auto;
   
