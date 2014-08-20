@@ -1,9 +1,5 @@
 h1 {
   color: Red;
-  
-  
-  
-  
 }
 body {
   background-color: White;
@@ -12,8 +8,9 @@ img {
   width: 15%;
   border-style: Solid;
   border-color: Black;
+  float: left;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  float: left;
+  
 }
