@@ -4,6 +4,10 @@ h1 {
 body {
   background-color: Blue;
 }
-img {
+.img {
   width: 25%;
+  margin-right: auto;
+  margin-left: auto;
+  border-stlye: solid;
+  border-color: black;
 }
