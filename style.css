@@ -6,7 +6,7 @@ body {
   background-color: White;
 }
 img {
-  width: 25%;
+  width: 35%;
   display: block;
   float: fixed;
   margin-left: auto;
@@ -25,11 +25,11 @@ img {
 }
 
 h3 {
-  text-size: medium;
+  font-size: medium;
 }
 
 h4 {
-  text-size: medium;
+  font-size: medium;
 }
 
 
