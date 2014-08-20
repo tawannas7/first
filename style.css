@@ -12,6 +12,7 @@ img {
   margin-right: auto;
   border-style: block;
   border-color: Black;
+  float: fixed;
   
 }
 
