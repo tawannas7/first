@@ -12,3 +12,11 @@ img {
   margin-right: auto;
   
 }
+
+#content {
+  height: 700px;
+}
+
+#header {
+  position: fixed;
+}
