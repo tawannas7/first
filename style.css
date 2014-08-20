@@ -8,4 +8,7 @@ img {
   width: 25%;
   border-style: Solid;
   border-color: Black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
