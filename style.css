@@ -36,5 +36,8 @@ h4 {
 p {
   text-align: center;
   font-size: large;
-  font-style: italics;
+  font-style: italic;
+}
+#test {
+  font-style: italic;
 }
