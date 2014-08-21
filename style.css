@@ -27,9 +27,7 @@ img {
 
 h3 {
   font-size: large;
-  border-style: double;
-  border-color: Black;
-  background-color: Tan;
+  
 }
 
 h4 {
@@ -46,3 +44,8 @@ p {
   font-style: italic;
 }
 
+h2 {
+  border-style: double;
+  border-color: Black;
+  background-color: Tan;
+}
