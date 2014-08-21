@@ -31,6 +31,9 @@ h3 {
 
 h4 {
   font-size: large;
+  border-style: double;
+  border-color: Black;
+  color: white;
 }
 
 
