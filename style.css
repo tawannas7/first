@@ -27,13 +27,13 @@ img {
 
 h3 {
   font-size: large;
+  border-style: double;
+  border-color: Black;
+  background-color: Tan;
 }
 
 h4 {
   font-size: large;
-  border-style: double;
-  border-color: Black;
-  color: white;
 }
 
 
@@ -45,8 +45,4 @@ p {
 #test {
   font-style: italic;
 }
-h3, h4 {
-  border-style: double;
-  border-color: black;
-  
-}
+
